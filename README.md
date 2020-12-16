@@ -7,6 +7,7 @@
 + クリックした所にキャラクターが走っていく
 + オブジェクトに接触すると獲得判定になる
 + クリックした場所とキャラクターとの間に、障害物などがあれば、遠回りする
++ クリアすると、Retryボタンでやり直すことができる
 
 ## English
 ### Overview
@@ -16,6 +17,7 @@ A game about getting objects as fast as possible while being followed by your fr
 + Click to move the character to the location you clicked.
 + If the character touches an object, it will be judged as an acquisition.
 + If there is an obstacle between the clicked location and the character, the character will go around it.
++ After cleared, you can use the Retry button to start over.
 
 1. Stage Picture
 ![pic-1](https://i.gyazo.com/169c60247c944d63803b057601ef9067.png)
